@@ -1,7 +1,7 @@
 # Personalized Drug Treatment Analysis with Generative AI
 
 ## Project Overview
-This repository contains a Jupyter notebook that demonstrates the use of Generative AI to develop personalized drug treatments for individuals with pre-existing conditions. The project leverages data obtained from ADReCS to represent diverse health profiles and applies advanced AI techniques to optimize treatment outcomes.
+This repository contains a Jupyter notebook that demonstrates the use of Generative AI using OpenAI API calls to develop personalized drug treatments for individuals with pre-existing conditions. The project leverages data obtained from ADReCS to represent diverse health profiles and applies advanced AI techniques to optimize treatment outcomes.
 
 Link to Dataset : [ADReCS Link](http://bioinf.xmu.edu.cn/ADReCS-Target/browser.jsp)
 
